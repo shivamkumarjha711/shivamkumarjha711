@@ -1,24 +1,70 @@
-# Hi there, I'm [Shivam Kumar Jha] 👋
+# Hi, I'm Shivam Kumar Jha 👋  
+**Full Stack Developer | React Native Developer**
 
-## About Me
+---
 
-I'm a passionate Full Stack Web App / React Native Developer with a strong foundation in building scalable and responsive web applications. I thrive on solving complex problems and turning ideas into functional and beautiful digital experiences. With a keen eye for design and a love for clean code, I'm dedicated to delivering high-quality software solutions.
+## 👨‍💻 About Me
 
-- 🌱 Constantly learning and exploring new technologies to stay up-to-date.
-- 💬 Open to collaborating on interesting projects and discussing web development topics.
-- 📫 Feel free to reach out to me at [shivamkumarjha711@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/theshivamkumarjha/).
+I’m a **Full Stack Developer** with a strong focus on **backend engineering**, system design, and building **secure, scalable web applications**.  
+I enjoy working on real-world products that involve complex workflows, data processing, authentication systems, and operational dashboards.
 
-## Skills
+My work revolves around turning business requirements into **clean APIs, reliable services, and maintainable architectures**, with equal attention to performance, security, and usability.
 
-- **Front-end**: HTML5, CSS3, JavaScript (ES6+), React.js, Redux, Bootstrap
-- **Back-end**: Node.js, Express.js, MongoDB, RESTful APIs
-- **Database**: MongoDB, Mongoose
-- **Authentication & Authorization**: JSON Web Tokens (JWT)
-- **Version Control**: Git, GitHub
-- **Deployment**: Heroku, Netlify, Vercel
-- **Tools**: Visual Studio Code, Postman, Trello
-## Get in Touch
+- 🔐 Strong focus on authentication, authorization & role-based systems  
+- 🧠 Experience building workflow-driven enterprise applications  
+- 📊 Hands-on with dashboards, reporting, and data-heavy features  
+- ☁️ Comfortable with cloud deployment and server configuration  
+- 🌱 Continuously learning system design and backend scalability
 
-I'm always interested in new opportunities and collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/theshivamkumarjha/) or shoot me an email at [shivamkumarjha711@gmail.com].
+---
 
-Let's build amazing web experiences together! 🚀
+## 🛠️ Tech Stack
+
+### **Frontend**
+- React.js, Redux
+- HTML5, CSS3, JavaScript (ES6+)
+- Bootstrap, Responsive UI Design
+
+### **Backend**
+- Node.js, Express.js
+- RESTful API Design
+- Business Logic & Workflow Automation
+
+### **Database**
+- MongoDB, Mongoose
+- Schema Design & Data Modeling
+
+### **Authentication & Security**
+- JWT-based Authentication
+- Role-Based Access Control (RBAC)
+- Secure API Authorization
+
+### **DevOps & Deployment**
+- AWS EC2
+- NGINX (Reverse Proxy)
+- Netlify, Vercel, Heroku
+
+### **Tools**
+- Git, GitHub
+- Postman
+- VS Code
+
+---
+
+## 🚀 What I Work On
+
+- Role-based **Stock & Inventory Management Systems**
+- **Attendance & Workforce Management Platforms**
+- **IoT Data Processing & Transmission Portals**
+- Secure dashboards for **monitoring, analytics, and reporting**
+- Notification systems and automated workflows
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/theshivamkumarjha](https://www.linkedin.com/in/theshivamkumarjha/)
+- 📧 Email: **shivamkumarjha711@gmail.com**
+
+Always open to collaborating on meaningful projects and backend-focused full stack roles.  
+Let’s build reliable systems 🚀
