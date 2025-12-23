@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate MERN Stack Web App Developer with a strong foundation in building scalable and responsive web applications. I thrive on solving complex problems and turning ideas into functional and beautiful digital experiences. With a keen eye for design and a love for clean code, I'm dedicated to delivering high-quality software solutions.
+I'm a passionate Full Stack Web App / React Native Developer with a strong foundation in building scalable and responsive web applications. I thrive on solving complex problems and turning ideas into functional and beautiful digital experiences. With a keen eye for design and a love for clean code, I'm dedicated to delivering high-quality software solutions.
 
 - 🌱 Constantly learning and exploring new technologies to stay up-to-date.
 - 💬 Open to collaborating on interesting projects and discussing web development topics.
