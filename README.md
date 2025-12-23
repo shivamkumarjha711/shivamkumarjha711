@@ -21,7 +21,7 @@ My work revolves around turning business requirements into **clean APIs, reliabl
 ## 🛠️ Tech Stack
 
 ### **Frontend**
-- React.js, Redux
+- React.js, React Native
 - HTML5, CSS3, JavaScript (ES6+)
 - Bootstrap, Responsive UI Design
 
